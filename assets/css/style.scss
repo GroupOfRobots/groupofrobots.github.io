@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Theme variables
+$background-color: #101010;
+$text-color: #eeeeee;
+
+// Theme
+body {
+	background-color: $background-color;
+	color: $text-color;
+}
