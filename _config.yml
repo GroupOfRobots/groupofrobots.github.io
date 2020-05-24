@@ -21,6 +21,7 @@
 title: MiniRyś
 description: >- # this means to ignore newlines until "baseurl:"
   GroupOfRobots github page
+baseurl: ""
 url: "https://groupofrobots.github.io/"
 github_username: GroupOfRobots
 logo: assets/images/minirys.jpg
